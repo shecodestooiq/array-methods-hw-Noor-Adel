@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "index.test.js",
+      "name": "npm.test.js",
       "setup": "npm install",
       "run": "npm test",
       "input": "",
